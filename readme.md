@@ -6,3 +6,6 @@
 - You can share the uploaded file via emails too!
 - The frontend is built using simple HTML, CSS & vanilla javascript.
 - The back-end consitutes of REST-APIs with node.js, express.js and MongoDB as database.
+
+### Preview:
+![](preview.png)
